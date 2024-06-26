@@ -3,7 +3,7 @@
   "builds": [
       {
           "src": "*.py",
-          "use": "@souvikumd/hello_on_flask_versel"
+          "use": "@vercel/python"
       }
   ],
   "routes": [
