@@ -12,4 +12,10 @@
           "dest": "templates/index.html"
       }
   ]
+  "rewrites": [
+	{ 
+	   "src": "/(.*)", 
+	   "dest": "/(.*)/app" 
+	}
+  ]
 }
