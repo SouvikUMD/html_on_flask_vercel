@@ -13,8 +13,7 @@
       }
   ],
   "rewrites": [
-	{ 
-	   "src": "(.*)", 
+	{  
 	   "dest": "templates/index.html" 
 	}
   ]
