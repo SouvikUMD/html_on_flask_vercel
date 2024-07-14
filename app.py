@@ -21,5 +21,5 @@ def gfg():
        return "Your name is "+first_name + last_name
     return render_template("index.html")
 
-if __name__ == '__main__':
-   app.run()
+#if __name__ == '__main__':
+#   app.run()
