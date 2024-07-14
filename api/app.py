@@ -20,6 +20,3 @@ def gfg():
        last_name = request.form.get("lname")
        return "Your name is "+first_name + last_name
     return render_template("index.html")
-
-#if __name__ == '__main__':
-#   app.run()
